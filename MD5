@@ -1,4 +1,4 @@
-2f46918b90cc9014018942c4ed53cf87 *DESCRIPTION
+a39f2196426d5f3b63166be660d463a9 *DESCRIPTION
 b108136dec8d5a8779168f01999d01f2 *NAMESPACE
 a3977f17b45dd648ae813be23fe17d0d *R/AlignStat.R
 c892130279bef71779ca014c802bb219 *R/Plots.R
@@ -25,4 +25,4 @@ fd7afcd214624f0b465f0b3aa4f58325 *tests/testthat/prepared_com.rda
 8c653e89258dfd9879334ee8a1ba8cfd *tests/testthat/prepared_ref.rda
 8c653e89258dfd9879334ee8a1ba8cfd *tests/testthat/prprepared_ref.rda
 6ffad74d959d82bc271731f65df1bd2b *tests/testthat/results.rda
-4e551ca877d31e27b42dce193c4ad22a *tests/testthat/test-align.R
+25672de86838e8ef89dfaeb9f17b4317 *tests/testthat/test-align.R
