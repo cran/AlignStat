@@ -1,13 +1,13 @@
-a39f2196426d5f3b63166be660d463a9 *DESCRIPTION
+3383516844be1b4863a5bd35c8a371df *DESCRIPTION
 b108136dec8d5a8779168f01999d01f2 *NAMESPACE
 a3977f17b45dd648ae813be23fe17d0d *R/AlignStat.R
-c892130279bef71779ca014c802bb219 *R/Plots.R
+b083455117eec41a1649b7545d4a78c0 *R/Plots.R
 ab54df72804425c76efd183af1cde87a *R/RcppExports.R
-d7bcbfe476438a43de79df4f429fba8b *R/compare_alignments.R
+fad3a4ea0b687345f7367fd2a4df19a6 *R/compare_alignments.R
 21b74b8f675d58d7d963db1909aa165e *R/data.R
-e350d96193e7cc993ca023be2f9cee8e *README.md
-f30cd7f7cce6df6abea2b2f8a44d56e5 *data/comparison_alignment.rda
-5b4b9a75205f119a0a267a221d9a3b55 *data/reference_alignment.rda
+9fec8707341d947a39fe1a8afa164e02 *README.md
+17a6afba27e9d36cd479dd79d83986cd *data/comparison_alignment.rda
+12ef3cc3d29178140d6da79856cc9e38 *data/reference_alignment.rda
 25848f869aaf0088a0d748f735b70688 *man/AlignStat.Rd
 e2267568f2153135e2f2d74217c40518 *man/compare_alignments.Rd
 5bd9a84b11e5718306c3a964ee8ec5e6 *man/comparison_alignment.Rd
@@ -25,4 +25,4 @@ fd7afcd214624f0b465f0b3aa4f58325 *tests/testthat/prepared_com.rda
 8c653e89258dfd9879334ee8a1ba8cfd *tests/testthat/prepared_ref.rda
 8c653e89258dfd9879334ee8a1ba8cfd *tests/testthat/prprepared_ref.rda
 6ffad74d959d82bc271731f65df1bd2b *tests/testthat/results.rda
-25672de86838e8ef89dfaeb9f17b4317 *tests/testthat/test-align.R
+8316fb6c4fbf204a2b56c2c1d9a4a057 *tests/testthat/test-align.R
