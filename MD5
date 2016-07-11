@@ -1,9 +1,9 @@
-a4ad08ce7a8446b0642963d05809a856 *DESCRIPTION
+6c49c51f1904f1b5b07a25d3e8cd0cfa *DESCRIPTION
 89ec1ca3cd76271a029a733d579a9b4c *NAMESPACE
 ef834f6f94e60dd2e8f1cdfb67a964d7 *R/AlignStat.R
 ac43cce3fa46dffeb81aae9b37aee4a3 *R/Plots.R
 ab54df72804425c76efd183af1cde87a *R/RcppExports.R
-35175a3435a9371544e31b505e511a1a *R/compare_alignments.R
+6ca31d982a81a0c2fb0c2f59f4145dd2 *R/compare_alignments.R
 21b74b8f675d58d7d963db1909aa165e *R/data.R
 06bbd98ee535fba21af8cab62e2ba7f3 *README.md
 892a426dbec279a2d363fdcac34a8b79 *data/comparison_alignment.rda
@@ -18,7 +18,7 @@ b756ec77f2c4f6e5ef0f2f367aea02a0 *man/plot_dissimilarity_matrix.Rd
 cf4f3df37a0a41c93801954d1c5bfaa1 *man/plot_similarity_summary.Rd
 c262a146cddb4d85119c2374d5952dc4 *man/reference_alignment.Rd
 702801f3a532e509162cbecd86a2c12a *src/RcppExports.cpp
-8b54f25aa029ca6d7ff6d65e15f00b80 *src/rcpp_align.cpp
+94e4e5fb9bc04bf7170283a96548cd76 *src/rcpp_align.cpp
 b981b1c3a741c1c6b675333c367e2971 *tests/testthat.R
 b16211cf1d84412dc0578969bdf2f2b3 *tests/testthat/AlignmentA.fasta
 1246b2b74adad4b76837d3864a9f9b82 *tests/testthat/AlignmentB.clustal
